@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanskruti Mansoriya</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/AmanVerma2202/AmanVerma2202/main/header.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/sanskrutim/sanskrutim/main/header.png"> </div>
 <h3 align="center">Where Code Meets Creativity: Full Stack Web Development(MERN)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanverma2202&label=Profile%20views&color=0e75b6&style=flat" alt="amanverma2202" /> </p>
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React.js,JavaScript and Node.js**
 
-- 📫 How to reach me **aka.amanverma@gmail.com**
+- 📫 How to reach me **sanskrutimansoriya4094@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sBa3pKTLnDPEUZNl95AbIcpS9lXphJgb/view?usp=sharing](https://drive.google.com/file/d/1sBa3pKTLnDPEUZNl95AbIcpS9lXphJgb/view?usp=sharing)
 
